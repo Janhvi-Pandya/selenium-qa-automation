@@ -11,10 +11,5 @@ This repository contains an automated UI testing framework for the **SauceDemo**
 - Headless Chrome WebDriver setup for seamless automation
 - Screenshot capture for debugging and verification
 
-## Installation
 
-Ensure you have **Python 3.x** installed. Install the required dependencies using:
-
-```bash
-pip install -r requirements.txt
 
